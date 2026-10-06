@@ -1,0 +1,6 @@
+{
+  "name": "IoT Monitor - Smart Workspace",
+  "description": "Hệ thống giám sát môi trường và điều khiển thiết bị IoT thông minh với giao diện Soft-Tech hiện đại.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
